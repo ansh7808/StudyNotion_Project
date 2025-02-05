@@ -13,3 +13,5 @@ StudyNotion is an e-learning platform where instructors can create courses, and 
 
 # Project UI
 ![Image](https://github.com/user-attachments/assets/5bbfe46a-b966-4f9f-8ac1-037190a3d6c4)
+![Image](https://github.com/user-attachments/assets/1d30d0d6-0cfd-46bc-b855-56d5a8ae8f99)
+![Image](https://github.com/user-attachments/assets/c626dbad-426d-437c-ae15-e0985f4b745a)
