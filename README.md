@@ -21,17 +21,3 @@ StudyNotion is an e-learning platform where instructors can create courses, and 
 - First create the categories e.g. web dev, Python, etc. (without categories courses cannot be added). To create categories create an Admin account and go to dashboard then admin panel.
 - To create an Admin account first sign up with a student or instructor account then go to your Database under the users model and change that 'accountType' to 'Admin
 
-## Installation
-### 1. Clone the repository to your local machine.
-```bash
-git clone https://github.com/ansh7808/StudyNotion_Project.git
-
-cd StudyNotion
-npm install
-
-cd server
-npm install
-
-
-cd server
-npm install
