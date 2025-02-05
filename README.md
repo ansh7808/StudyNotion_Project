@@ -25,12 +25,13 @@ StudyNotion is an e-learning platform where instructors can create courses, and 
 ### 1. Clone the repository to your local machine.
 ```bash
 git clone https://github.com/ansh7808/StudyNotion_Project.git
-exit
 
-### 2.Install the required packages.
-```bash
 cd StudyNotion
 npm install
+
+cd server
+npm install
+
 
 cd server
 npm install
