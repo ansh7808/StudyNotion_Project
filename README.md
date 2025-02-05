@@ -17,6 +17,8 @@ StudyNotion is an e-learning platform where instructors can create courses, and 
 ![Image](https://github.com/user-attachments/assets/5bbfe46a-b966-4f9f-8ac1-037190a3d6c4)
 
 # Important
--Backend is in the server folder.
--First create the categories e.g. web dev, Python, etc. (without categories courses cannot be added). To create categories create an Admin account and go to dashboard then admin panel.
--To create an Admin account first sign up with a student or instructor account then go to your Database under the users model and change that 'accountType' to 'Admin
+- Backend is in the server folder.
+- First create the categories e.g. web dev, Python, etc. (without categories courses cannot be added). To create categories create an Admin account and go to dashboard then admin panel.
+- To create an Admin account first sign up with a student or instructor account then go to your Database under the users model and change that 'accountType' to 'Admin
+
+
