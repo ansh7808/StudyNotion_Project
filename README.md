@@ -10,3 +10,6 @@ StudyNotion is an e-learning platform where instructors can create courses, and 
 - **Student Dashboard** : The Student Dashboard allows users to edit their profile, update details, and manage their learning journey. Students can view enrolled courses, track progress, and access course materials seamlessly.
 - **Ratings & Reviews** : The Ratings & Reviews feature enables students to share feedback on courses, helping others make informed choices.
 - **Enail Notifications** :  Automated emails for enrollment, purchase confirmations, and updates.
+
+# Project UI
+![Image](https://github.com/user-attachments/assets/5bbfe46a-b966-4f9f-8ac1-037190a3d6c4)
